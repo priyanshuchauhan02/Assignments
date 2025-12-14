@@ -13,3 +13,4 @@ main(){
 		printf("\n Square of %d = %d", num, num*num);
 	}
 }
+
