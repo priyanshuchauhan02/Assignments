@@ -1,0 +1,7 @@
+OPERATORS IN PYTHON ARE:
+1. Arithmetic Operators (+,-,*,/,%,**,//)
+2. Assignment Operators (=,+=,-=,*=,/=,%=,**=)
+3. Relational Operators(==,!=,>,<,>=,<=)
+4. Logical Operators(and, or, not)
+5. Membership Operators(in,not in)
+6. Identity Operators(is,is not)

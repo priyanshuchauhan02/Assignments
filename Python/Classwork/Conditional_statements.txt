@@ -1,0 +1,17 @@
+Types of Conditional statements
+-------------------------------
+1. if statement
+2. Else if statement
+3. Elif statement
+4. Nested if statement
+
+Types of Loop statement
+-----------------------
+1. for 
+2. while
+
+Types of Control statement
+--------------------------
+1. Break
+2. Continue
+3. Pass
