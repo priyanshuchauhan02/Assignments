@@ -2,4 +2,7 @@
 1. len()
 2. lower()
 3. upper()
-4.
+4. Casefold()
+5. Tittle()
+6. Capitalize()
+7. 
