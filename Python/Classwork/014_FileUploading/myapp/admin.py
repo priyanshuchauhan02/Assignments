@@ -7,3 +7,4 @@ class ProductDisplay(admin.ModelAdmin):
 
 
 admin.site.register(Product,ProductDisplay)
+admin.site.register(Category)
