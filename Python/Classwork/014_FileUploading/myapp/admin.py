@@ -6,5 +6,5 @@ class ProductDisplay(admin.ModelAdmin):
     list_display=['id','name','price','qty','image']
 
 
-admin.site.register(Product,ProductDisplay)
 admin.site.register(Category)
+admin.site.register(Product,ProductDisplay)
